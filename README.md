@@ -7,11 +7,6 @@ Turning ideas into meaningful software products through product vision, strategy
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6D28D9,100:38BDF8&height=230&section=header&text=Hugo%20Skyline&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CPO%20%40%20LETHEA%20Software&descAlignY=58&descSize=20" width="100%" alt="Hugo Skyline — Founder & CPO" />
-</p>
----
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Company+Founder;Chief+Product+Officer;Product+Vision+%26+Strategy;Product+Discovery;User+Experience;Product+Roadmapping;Digital+Product+Development;From+Idea+to+Launch" alt="Product Leadership Roles" />
 </p>
 
