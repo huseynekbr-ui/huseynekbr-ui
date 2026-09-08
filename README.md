@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1800&color=00FF9D&background=0D1117&center=false&vCenter=true&width=950&height=160&lines=%24+whoami;%3E+Hugo+Skyline;%24+cat+role.txt;%3E+COCOFounder+and+CPO+%40+LETHEA+Software;%24+status;%3E+Building+what+comes+next..." width="100%" alt="Hugo Skyline — terminal introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1800&color=00FF9D&background=0D1117&center=false&vCenter=true&width=950&height=160&lines=%24+whoami;%3E+Hugo+Skyline;%24+cat+role.txt;%3E+COCoFounder+and+CPO+%40+LETHEA+Software;%24+status;%3E+Building+what+comes+next..." width="100%" alt="Hugo Skyline — terminal introduction" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/COFounder-0F172A?style=for-the-badge" alt="COFounder" />
+  <img src="https://img.shields.io/badge/CoFounder-0F172A?style=for-the-badge" alt="CoFounder" />
   <img src="https://img.shields.io/badge/CHIEF_PRODUCT_OFFICER-6D28D9?style=for-the-badge" alt="Chief Product Officer" />
   <img src="https://img.shields.io/badge/LETHEA_SOFTWARE-0284C7?style=for-the-badge" alt="LETHEA Software" />
 </p>
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-- 🏢 COFounder & Chief Product Officer at **LETHEA Software**
+- 🏢 CoFounder & Chief Product Officer at **LETHEA Software**
 - 🧭 Shaping product vision, strategy, and direction
 - 🔍 Turning user problems into product opportunities
 - 🎨 Connecting user experience with business goals
@@ -35,7 +35,7 @@
 |:---|:---|
 | **Name** | Hugo Skyline |
 | **Company** | LETHEA Software |
-| **Role** | COFounder & Chief Product Officer |
+| **Role** | CoFounder & Chief Product Officer |
 | **Focus** | Product Strategy & User Experience |
 | **Domain** | Software & Digital Products |
 | **Mission** | Turn real problems into useful products |
@@ -117,7 +117,7 @@
 **Player:** Hugo Skyline  
 **Guild:** LETHEA Software  
 **Class:** Product Strategist  
-**Role:** COFounder & CPO  
+**Role:** CoFounder & CPO  
 
 **Main Quest:** Build products that solve real problems.
 
